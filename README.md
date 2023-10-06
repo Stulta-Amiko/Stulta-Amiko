@@ -16,7 +16,6 @@
 #### 🤔 - Things I've used before
 
 </br>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=EEEEEE"/>
@@ -55,7 +54,6 @@
 #### 🤔 - Studying
 
 </br>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=EEEEEE"/>
 <img src="https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white">
