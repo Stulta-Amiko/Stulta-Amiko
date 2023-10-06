@@ -38,7 +38,6 @@
 #### 🤔 - Frequently used
 
 </br>
-   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/JAVA-FF5100?style=for-the-badge&logo=buymeacoffee&logoColor=EEEEEE"/>
@@ -54,6 +53,7 @@
 #### 🤔 - Studying
 
 </br>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=EEEEEE"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=EEEEEE"/>
 <img src="https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white">
